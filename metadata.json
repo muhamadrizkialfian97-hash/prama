@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: PRAMA - Project Management Analytics",
+  "description": "AI Chatbot PRAMA for Project Management Analytics with distinct divisions (Comercial, HCA, FINA, LGA, SPIA) and templates exporter for Pancaran Group",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
